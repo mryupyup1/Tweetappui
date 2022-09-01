@@ -1,0 +1,34 @@
+ul.header {
+    background-color: #13bfe7;
+    padding: 0;
+    border-radius: 0.5rem;
+}
+
+.navbar-brand {
+    padding-left: 20px;
+}
+
+.show>.dropdown-menu{
+    display: block;
+    position: relative;
+}
+.hide>.dropdown-menu{
+    display: none;   
+}
+
+.dClass{
+    width: 25%!important;
+}
+.dropdownClass{
+    position: absolute;
+    top: 6%;
+    padding-left: 48%;
+}
+.header{
+    border-style: solid;
+    border-color: blue;
+}
+.dropdown,.dClass{
+    padding-top: 5px;
+    padding-left: 220px;
+}

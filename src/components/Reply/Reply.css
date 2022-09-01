@@ -1,0 +1,31 @@
+#uname{
+    color: blue;
+}
+
+.user{
+    margin-left: 22rem;
+    
+}
+#color1{
+    background-color: aliceblue !important;
+    border-style: solid !important;
+    border-color: blue;
+}
+.card{
+    background-color: aliceblue !important;
+    border-style: solid !important;
+    border-color: blue;
+}
+
+.out{
+    align-items: center;
+    margin-top: 2rem;
+    justify-content: center;
+    display: flex;
+    background-color: aliceblue;
+    height:26rem;
+    border-style: solid;
+    border-color: blue;
+    
+}
+ 
